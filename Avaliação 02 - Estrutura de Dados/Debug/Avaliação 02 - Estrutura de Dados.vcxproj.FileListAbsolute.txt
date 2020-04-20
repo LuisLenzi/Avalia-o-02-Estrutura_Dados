@@ -1,0 +1,4 @@
+C:\Users\wilia\Desktop\Avaliação 02 - Estrutura de Dados\Avaliação 02 - Estrutura de Dados\Debug\Avaliação 02 - Estrutura de Dados.exe
+C:\Users\wilia\Desktop\Avaliação 02 - Estrutura de Dados\Avaliação 02 - Estrutura de Dados\Debug\Avaliação 02 - Estrutura de Dados.pdb
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Estrutura de Dados\Avaliação 02 - Estrutura de Dados\Debug\Avaliação 02 - Estrutura de Dados.exe
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Estrutura de Dados\Avaliação 02 - Estrutura de Dados\Debug\Avaliação 02 - Estrutura de Dados.pdb
